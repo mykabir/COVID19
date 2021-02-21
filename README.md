@@ -1,3 +1,8 @@
+## Update V3.0: 
+1. Tweet IDs now avilable from Match 5th 2020 to December 31st 2020.
+2. In the next week we will update state wise tweet IDs with masked user IDs. 
+
+
 # CoronaVis: A Real-time COVID-19 Tweets Analyzer
 
 The goal of ConronaVis is to use tweets as the information shared by the people to visualize topic modeling, study subjectivity and to model the human emotions during the COVID-19 pandemic. The main objective is to explore the psychology and behavior of the societies at large which can assist in managing the economic and social crisis during the ongoing pandemic as well as the after-effects of it. In this paper, we describe the CoronaVis Twitter dataset (focused on United States) that we have been collecting from early March 2020. We would like to share this data (Tweets ID) with the hope that it will enable the community to find out more useful insights and create different applications and models to fight with COVID-19 pandemic and the future pandemics as well. 
