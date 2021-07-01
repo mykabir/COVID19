@@ -16,13 +16,20 @@ This repository contains two different folders. One is the "data" folder contain
 
 
 ### Use Policy
-This dataset is released in compliance with [Twitter’s Developer Terms & Conditions](https://developer.twitter.com/en/developer-terms/agreement-and-policy). The data repository will be continuously updated every week. The data repository, containing codes, and [CoronaVis](https://mykabir.github.io/coronavis), 2020 W2C lab, Missouri University of Science and Technology, all rights reserved, can be used for educational, academic, and government research purposes with proper citation (Please cite [this paper](https://arxiv.org/abs/2004.13932)). Any commercial use of any materials is strictly prohibited. Taking and sharing a screenshot is allowed with appropriate citation.  
+This dataset is released in compliance with [Twitter’s Developer Terms & Conditions](https://developer.twitter.com/en/developer-terms/agreement-and-policy). The data repository will be continuously updated every week. The data repository, containing codes, and [CoronaVis](https://mykabir.github.io/coronavis), 2020 W2C lab, Missouri University of Science and Technology, all rights reserved, can be used for educational, academic, and government research purposes with proper citation (Please cite [this paper](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000197)). Any commercial use of any materials is strictly prohibited. Taking and sharing a screenshot is allowed with appropriate citation.
 
-@misc{kabir2020coronavis,
-    title={CoronaVis: A Real-time COVID-19 Tweets Analyzer},
-    author={Md. Yasin Kabir and Sanjay Madria},
-    year={2020},
-    eprint={2004.13932},
-    archivePrefix={arXiv},
-    primaryClass={cs.SI}
+@article{kabir2021emocov,
+  title={EMOCOV: Machine learning for emotion detection, analysis and visualization using COVID-19 tweets},
+  author={Kabir, Md Yasin and Madria, Sanjay},
+  journal={Online Social Networks and Media},
+  volume={23},
+  pages={100135},
+  year={2021},
+  publisher={Elsevier}
 }
+
+### Related Articles
+
+- [EMOCOV: Machine learning for emotion detection, analysis and visualization using COVID-19 tweets](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000197)
+- [CoronaVis: a real-time COVID-19 tweets data analyzer and data repository](https://arxiv.org/abs/2004.13932)
+- 
