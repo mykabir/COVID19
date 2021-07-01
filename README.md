@@ -32,4 +32,4 @@ This dataset is released in compliance with [Twitter’s Developer Terms & Condi
 
 - [EMOCOV: Machine learning for emotion detection, analysis and visualization using COVID-19 tweets](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000197)
 - [CoronaVis: a real-time COVID-19 tweets data analyzer and data repository](https://arxiv.org/abs/2004.13932)
-- 
+
